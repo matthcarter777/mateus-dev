@@ -1,6 +1,6 @@
 import {useTranslations} from 'next-intl';
 import {Link} from '@/i18n/routing';
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaLocationArrow, FaMinus } from "react-icons/fa";
 
 export default function Home() {
   const t = useTranslations('HomePage');
@@ -14,12 +14,12 @@ export default function Home() {
             <h4 className='text-2xl font-medium mb-4'>Desenvolvedor FullStack</h4>
             <p className='text-slate-500'>Construo aplicações do zero com abordagem simples e eficiente para o negocio.</p>
           </div>
-          <div className='px-8 flex flex-col'>
-            <a href="">Sobre</a>
-            <a href="#">Experiencia</a>
-            <a href="#">Projetos</a>
+          <div className='px-8 flex flex-col size-full'>
+            <a className='mt-10 flex flex-row gap-6 items-center' href=""><FaMinus /> Sobre</a>
+            <a className='mt-5 flex flex-row gap-6 items-center'href="#"><FaMinus /> Experiencia</a>
+            <a className='mt-5 flex flex-row gap-6 items-center'href="#"><FaMinus />Projetos</a>
           </div>
-          <div className='px-8 flex flex-row basis-2'>
+          <div className='px-8 flex flex-row space-x-4'>
             <a className='text-2xl' href=""><FaLinkedin /></a>
             <a className='text-2xl' href="#"><FaGithub /></a>
           </div>
