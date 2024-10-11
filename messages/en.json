@@ -2,6 +2,13 @@
   "HomePage": {
     "name": "Mateus Henrique da Silva",
     "title": "Fullstack Developer",
-    "description": "I build applications from scratch with a simple and efficient approach for the business."
+    "description": "I build applications from scratch with a simple and efficient approach for the business.",
+    "summary": [
+      "1",
+      "2",
+      "3",
+      "3",
+      "3"
+    ]
   }
 }

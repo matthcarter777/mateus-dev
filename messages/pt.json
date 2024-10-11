@@ -2,6 +2,13 @@
   "HomePage": {
     "name": "Mateus Henrique da Silva",
     "title": "Desenvolvedor FullStack",
-    "description": "Construo aplicações do zero com abordagem simples e eficiente para o negocio."
+    "description": "Construo aplicações do zero com abordagem simples e eficiente para o negocio.",
+    "summary": [
+      "1",
+      "2",
+      "3",
+      "3",
+      "3"
+    ]
   }
 }
