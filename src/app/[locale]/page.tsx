@@ -1,4 +1,3 @@
-import {useTranslations} from 'next-intl';
 import SocialMedia from '../components/socialMedia';
 import Navbar from '../components/navbar';
 import Profile from '../components/profile';
