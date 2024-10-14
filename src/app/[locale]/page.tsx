@@ -19,6 +19,8 @@ export default function Home() {
         <div className="box-content p-20 overflow-y-auto">
           <Summary />
           <Experience />
+          <Experience />
+          <Experience />
         </div>
       </div>
     </div>
