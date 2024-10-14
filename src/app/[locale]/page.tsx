@@ -3,6 +3,7 @@ import SocialMedia from '../components/socialMedia';
 import Navbar from '../components/navbar';
 import Profile from '../components/profile';
 import Summary from '../components/summary';
+import Experience from '../components/experiences';
 
 export default function Home() {
   const t = useTranslations('HomePage');
@@ -17,6 +18,7 @@ export default function Home() {
         </div>
         <div className="box-content p-20 overflow-y-auto">
           <Summary />
+          <Experience />
         </div>
       </div>
     </div>
