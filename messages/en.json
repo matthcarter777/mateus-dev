@@ -7,6 +7,29 @@
       "item1": "I’m Mateus, a Systems Analysis and Development graduate with over five years of experience in developing complete applications. Throughout my career, I have worked with modern technologies such as Node.js, React, and Spring Boot, and have solid experience with databases like PostgreSQL. In addition, I possess strong knowledge in serverless API development using AWS Lambda and cloud infrastructure.",
       "item2": " My journey includes creating systems tailored to business needs, such as a help desk system that was widely adopted and expanded within my current company to cover various departments. I am also a full-stack developer, with experience in building applications using React and Node.js, as well as executing projects with monorepos and the Next.js framework.",
       "item3": "I’m known for my communication and teamwork skills, which have enabled me to successfully work in agile environments and tackle various software challenges. Recently, I’ve focused on deepening my Java knowledge, particularly in applications using Spring Boot, to further enhance my backend expertise."
+    }, 
+    "experiences" : {
+      "experience1": {
+        "company": "ITAFOS",
+        "title": "Analista de TI Pleno",
+        "startDateEndDate": "2024 - PRESENT",
+        "description": "No Projeto Parceiros Itafos, desenvolvi uma solução de autenticação com Java Spring Boot e integrei dados de usuários e parceiros em MySQL. No frontend, utilizei Next.js 14, ChakraUI e TypeScript, aplicando Clean Code e MVC para garantir escalabilidade. Implementei um sistema de Gestão de Chamados com medição de SLA e automação de e-mails, além de criar APIs RESTful e gerenciar bancos PostgreSQL e MySQL. Apliquei metodologias ágeis, controle de versão com GIT e conduzi treinamentos para capacitar a equipe.",
+        "technologies": {
+          "technologie1": "JAVA",
+          "technologie2": "NODE.JS",
+          "technologie3": "SPRIGNBOOT",
+          "technologie4": "REACT",
+          "technologie5": "NEXT.JS",
+          "technologie6": "NEXT.JS",
+          "technologie7": "POSTGRES"
+        }
+      }
     }
+  }, 
+  "navbar": {
+    "about": "About",
+    "experiences": "Experiences",
+    "formations": "Formations",
+    "projects": "Projects"
   }
 }

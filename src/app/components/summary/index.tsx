@@ -10,7 +10,7 @@ export default function Summary() {
   ];
 
   return (
-    <div className="mb-20">
+    <div id="about" className="mb-20">
       {summaryItems.map((text, index) => (
         <p key={index} className="text-justify mb-3 text-slate-500">{text}</p>
       ))}
