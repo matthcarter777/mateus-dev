@@ -67,14 +67,14 @@ const Experience = () => {
             </p>
           </div>
           <div className="w-6/10 pl-9">
-            <h4 className="mb-4">{experience.title} - {experience.company}</h4>
+            <h4 className="mb-4 text-white">{experience.title} - {experience.company}</h4>
             <p className="text-justify mb-3 text-slate-500">
               {experience.description}
             </p>
             <div className="grid grid-cols-4 gap-4">
               {experience.technologies.map((tech, i) => (
                 <div key={i} className="bg-indigo-500 rounded-md text-center">
-                  <p className='text-xs text-center p-0.5'>{tech}</p>
+                  <p className='text-xs text-center p-0.5 text-white'>{tech}</p>
                 </div>
               ))}
             </div>

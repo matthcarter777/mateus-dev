@@ -17,6 +17,7 @@ export default function Navbar() {
           hover:text-indigo-500 
           transition-colors 
           duration-300
+          text-white
         '
         >
         <FaMinus />
@@ -33,6 +34,7 @@ export default function Navbar() {
         hover:text-indigo-500 
           transition-colors 
           duration-300
+          text-white
         '
       >
         <FaMinus /> 
@@ -49,6 +51,7 @@ export default function Navbar() {
       hover:text-indigo-500 
         transition-colors 
         duration-300
+        text-white
       '
       >
         <FaMinus />
@@ -65,6 +68,7 @@ export default function Navbar() {
       hover:text-indigo-500 
         transition-colors 
         duration-300
+        text-white
       '
       >
         <FaMinus />
