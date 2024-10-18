@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useState } from 'react';
-import { FaSpinner } from 'react-icons/fa'; // Importa o ícone de carregamento do react-icons
 import SocialMedia from '../components/socialMedia';
 import Navbar from '../components/navbar';
 import Profile from '../components/profile';
