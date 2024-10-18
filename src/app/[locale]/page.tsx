@@ -5,6 +5,7 @@ import Summary from '../components/summary';
 import Experience from '../components/experiences';
 
 export default function Home() {
+
   return (
     <div className="bg-gray-900 w-screen h-screen">
       <div className="grid grid-cols-2 h-full">

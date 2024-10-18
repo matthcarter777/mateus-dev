@@ -11,17 +11,47 @@
     "experiences" : {
       "experience1": {
         "company": "ITAFOS",
-        "title": "Analista de TI Pleno",
-        "startDateEndDate": "2024 - PRESENT",
-        "description": "No Projeto Parceiros Itafos, desenvolvi uma solução de autenticação com Java Spring Boot e integrei dados de usuários e parceiros em MySQL. No frontend, utilizei Next.js 14, ChakraUI e TypeScript, aplicando Clean Code e MVC para garantir escalabilidade. Implementei um sistema de Gestão de Chamados com medição de SLA e automação de e-mails, além de criar APIs RESTful e gerenciar bancos PostgreSQL e MySQL. Apliquei metodologias ágeis, controle de versão com GIT e conduzi treinamentos para capacitar a equipe.",
+        "title": "Mid-level IT Analyst",
+        "startDateEndDate": "2023 - PRESENT",
+        "description": "I work as a Mid-level IT Analyst, responsible for contract management and leading internal and third-party projects. I have experience as a full stack developer, creating complete solutions with Node.js on the backend, Next.js on the frontend, and PostgreSQL/MySQL databases. I provide user support for the Datasul ERP, participate in the implementation of modules and configurations, and develop custom reports to meet specific business needs. I work with serverless APIs on AWS, perform cloud deployments, and utilize virtual machines, as well as employing GIT for version control. I develop APIs with Node.js and Java (Spring Boot) and conduct requirements gathering to ensure that projects meet business needs. My work spans from planning to delivery, always aiming for efficiency and high value.",
         "technologies": {
           "technologie1": "JAVA",
           "technologie2": "NODE.JS",
-          "technologie3": "SPRIGNBOOT",
+          "technologie3": "JAVA SPRIG",
           "technologie4": "REACT",
           "technologie5": "NEXT.JS",
-          "technologie6": "NEXT.JS",
-          "technologie7": "POSTGRES"
+          "technologie6": "PROGRESS",
+          "technologie7": "MySQL",
+          "technologie8": "ERP DATASUL"
+        }
+      },
+      "experience2": {
+        "company": "ITAFOS",
+        "title": "Junior IT Analyst",
+        "startDateEndDate": "2021 - 2023",
+        "description": "As a Junior IT Analyst, I am responsible for contract management and leading development projects, both internally and in partnership with third parties. I have experience as a full stack developer, with a focus on a complete project utilizing Node.js on the backend, PostgreSQL/MySQL as databases, and Next.js on the frontend. I provide support for the Datasul ERP and develop custom reports to meet the specific needs of the business. I work with virtual machines, manage version control using GIT, and am responsible for requirements gathering to ensure that deliveries meet business needs.",
+        "technologies": {
+          "technologie1": "PHP",
+          "technologie2": "NODE.JS",
+          "technologie3": "REACT",
+          "technologie4": "NEXT.JS",
+          "technologie5": "PROGRESS",
+          "technologie6": "MySQL",
+          "technologie7": "ERP DATASUL"
+        }
+      },
+      "experience3": {
+        "company": "ITAFOS",
+        "title": "Junior IT Analyst",
+        "startDateEndDate": "2019 - 2021",
+        "description": "I worked as an IT Assistant, responsible for contract management and participating in internal development projects as well as projects in partnership with third parties. My experience includes deployments and acting as a full stack developer, where I participated in complete projects using Node.js on the backend, PostgreSQL and PHP with MySQL as databases, and Next.js on the frontend. I worked with virtual machines, managed version control using GIT, and conducted requirements gathering to ensure that the solutions met business needs. I also provided user support for the Datasul ERPs and developed custom reports, ensuring that the tools efficiently addressed the company's demands",
+        "technologies": {
+          "technologie1": "PHP",
+          "technologie2": "NODE.JS",
+          "technologie3": "REACT",
+          "technologie4": "PROGRESS",
+          "technologie5": "MySQL",
+          "technologie6": "ERP DATASUL"
         }
       }
     }

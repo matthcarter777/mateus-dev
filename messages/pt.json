@@ -12,16 +12,46 @@
       "experience1": {
         "company": "ITAFOS",
         "title": "Analista de TI Pleno",
-        "startDateEndDate": "2024 - PRESENT",
-        "description": "No Projeto Parceiros Itafos, desenvolvi uma solução de autenticação com Java Spring Boot e integrei dados de usuários e parceiros em MySQL. No frontend, utilizei Next.js 14, ChakraUI e TypeScript, aplicando Clean Code e MVC para garantir escalabilidade. Implementei um sistema de Gestão de Chamados com medição de SLA e automação de e-mails, além de criar APIs RESTful e gerenciar bancos PostgreSQL e MySQL. Apliquei metodologias ágeis, controle de versão com GIT e conduzi treinamentos para capacitar a equipe.",
+        "startDateEndDate": "2023 - PRESENT",
+        "description": "Atuo como Analista de TI Pleno, responsável pela gestão de contratos e liderança de projetos internos e com terceiros. Possuo experiência como desenvolvedor full stack, criando soluções completas com Node.js no backend, Next.js no frontend e bancos de dados PostgreSQL/MySQL. Presto suporte ao usuário no ERP Datasul, participo da implantação de módulos e parametrizações, além de desenvolver relatórios personalizados para atender às necessidades específicas do negócio. Trabalho com APIs serverless na AWS, realizo deploys em nuvem e utilizo máquinas virtuais, além de empregar GIT para versionamento. Desenvolvo APIs com Node.js e Java (Spring Boot) e conduzo o levantamento de requisitos para garantir que os projetos atendam às necessidades do negócio. Minha atuação cobre desde o planejamento até a entrega, sempre buscando eficiência e alto valor agregado.",
         "technologies": {
           "technologie1": "JAVA",
           "technologie2": "NODE.JS",
-          "technologie3": "SPRIGNBOOT",
+          "technologie3": "JAVA SPRIG",
           "technologie4": "REACT",
           "technologie5": "NEXT.JS",
-          "technologie6": "NEXT.JS",
-          "technologie7": "POSTGRES"
+          "technologie6": "PROGRESS",
+          "technologie7": "MySQL",
+          "technologie8": "ERP DATASUL"
+        }
+      },
+      "experience2": {
+        "company": "ITAFOS",
+        "title": "Analista de TI Junior",
+        "startDateEndDate": "2021 - 2023",
+        "description": "Atuando como Analista de TI Júnior, sou responsável pela gestão de contratos e pela liderança de projetos de desenvolvimento, tanto internos quanto em parceria com terceiros. Tenho experiência como desenvolvedor full stack, com destaque para um projeto completo utilizando Node.js no backend, PostgreSQL/MySQL como bancos de dados e Next.js no frontend. Suporte no ERP Datasul e desenvolvo relatórios personalizados para atender às necessidades específicas do negócio. Trabalho com máquinas virtuais, realizo versionamento de código com GIT e sou responsável pelo levantamento de requisitos para garantir que as entregas atendam às necessidades do negócio.",
+        "technologies": {
+          "technologie1": "PHP",
+          "technologie2": "NODE.JS",
+          "technologie3": "REACT",
+          "technologie4": "NEXT.JS",
+          "technologie5": "PROGRESS",
+          "technologie6": "MySQL",
+          "technologie7": "ERP DATASUL"
+        }
+      },
+       "experience3": {
+        "company": "ITAFOS",
+        "title": "Auxiliar de TI",
+        "startDateEndDate": "2019 - 2021",
+        "description": "Atuei como Auxiliar de TI, sendo responsável pela gestão de contratos e participando de projetos de desenvolvimento internos e em parceria com terceiros. Minha experiência inclui implantações e atuação como desenvolvedor full stack, onde participei de projetos completos utilizando Node.js no backend, PostgreSQL e PHP com MySQL como bancos de dados, e Next.js no frontend. Trabalhei com máquinas virtuais, realizei versionamento de código utilizando GIT, e conduzi o levantamento de requisitos para garantir que as soluções atendam às necessidades do negócio. Também ofereci suporte ao usuário nos ERPs Datasul e desenvolvi relatórios personalizados, assegurando que as ferramentas atendam de forma eficiente às demandas da empresa.",
+        "technologies": {
+          "technologie1": "PHP",
+          "technologie2": "NODE.JS",
+          "technologie3": "REACT",
+          "technologie4": "PROGRESS",
+          "technologie5": "MySQL",
+          "technologie6": "ERP DATASUL"
         }
       }
     }
