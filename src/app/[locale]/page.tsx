@@ -7,6 +7,7 @@ import Profile from '../components/profile';
 import Summary from '../components/summary';
 import Experience from '../components/experiences';
 import Image from 'next/image';
+import Formations from '../components/formations';
 
 export default function Home() {
   const [loading, setLoading] = useState(true);
@@ -43,6 +44,7 @@ export default function Home() {
           <div className="box-content p-20 overflow-y-auto">
             <Summary />
             <Experience />
+            <Formations />
           </div>
         </div>
       )}
