@@ -30,7 +30,7 @@ export default function Home() {
               alt="Logo" 
               width={150} 
               height={150} 
-              className="transition-transform duration-500 transform scale-100 hover:scale-110" // Efeito de escalonamento
+              className="transition-transform duration-500 transform scale-100 hover:scale-110"
             />
           </div>
         </div>

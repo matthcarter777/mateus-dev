@@ -7,6 +7,24 @@
       "item1": "I’m Mateus, a Systems Analysis and Development graduate with over five years of experience in developing complete applications. Throughout my career, I have worked with modern technologies such as Node.js, React, and Spring Boot, and have solid experience with databases like PostgreSQL. In addition, I possess strong knowledge in serverless API development using AWS Lambda and cloud infrastructure.",
       "item2": " My journey includes creating systems tailored to business needs, such as a help desk system that was widely adopted and expanded within my current company to cover various departments. I am also a full-stack developer, with experience in building applications using React and Node.js, as well as executing projects with monorepos and the Next.js framework.",
       "item3": "I’m known for my communication and teamwork skills, which have enabled me to successfully work in agile environments and tackle various software challenges. Recently, I’ve focused on deepening my Java knowledge, particularly in applications using Spring Boot, to further enhance my backend expertise."
+    },
+    "formation": "Academic Background",
+    "formations": {
+      "formation1": {
+        "institution": "Faculdade Metropolitana",
+        "degree": "MBA in Software Engineering",
+        "startDateEndDate": "2019 - 2022"
+      },
+      "formation2": {
+        "institution": "Faculdade Unigran",
+        "degree": "Software Analysis and Development",
+        "startDateEndDate": "2019 - 2022"
+      },
+      "formation3": {
+        "institution": " Instituto Federal Goiano (IFGO)",
+        "degree": "Computer Technician for the Internet",
+        "startDateEndDate": "2017 - 2018"
+      }
     }, 
     "experiences" : {
       "experience1": {
