@@ -35,7 +35,7 @@ const Formations = () => {
 
         <>
           {formationsItems.map((formation, index) => (
-            <div className='hover:bg-gray-800 transition-colors duration-300 p-10 rounded-md'>
+            <div key={index} className='hover:bg-gray-800 transition-colors duration-300 p-10 rounded-md'>
               <h4 className='font-bold text-white'>{formation.degree}</h4>
               <p className='text-slate-500'>
                 {`${formation.institution} | ${formation.startDateEndDate}`}
@@ -43,9 +43,6 @@ const Formations = () => {
             </div>
           ))}
         </>
-        
-
-
       </div>
     </>
   );
