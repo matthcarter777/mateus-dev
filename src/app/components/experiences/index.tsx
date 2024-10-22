@@ -59,7 +59,15 @@ const Experience = () => {
         <div
           key={index}
           id="experience"
-          className="w-full flex hover:bg-gray-800 transition-colors duration-300 p-10 rounded-md"
+          className="
+            w-full 
+            flex 
+            hover:bg-gray-800 
+            transition-colors 
+            duration-300 
+            p-10 
+            rounded-md
+          "  
         >
           <div className="w-4/10 flex">
             <p className="w-full text-center text-xs text-slate-500">

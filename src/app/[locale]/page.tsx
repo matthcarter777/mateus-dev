@@ -35,8 +35,8 @@ export default function Home() {
           </div>
         </div>
       ) : (
-        <div className="grid grid-cols-2 h-full">
-          <div className="h-full max-h-80 box-content p-20 sticky top-0">
+        <div className="grid h-screen grid-cols-1 md:grid-cols-2">
+          <div className="box-content p-8 md:p-20 flex flex-col gap-8 md:sticky md:top-0">
             <Profile />
             <Navbar />
             <SocialMedia />

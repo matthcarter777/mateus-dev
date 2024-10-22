@@ -10,9 +10,9 @@ export default function Summary() {
   ];
 
   return (
-    <div id="about" className="mb-20">
+    <div id="about" className="lg:mb-20 md:mb-36">
       {summaryItems.map((text, index) => (
-        <p key={index} className="text-justify mb-3 text-slate-500">{text}</p>
+        <p key={index} className="text-justify lg:mb-3 md:mb-0 text-slate-500">{text}</p>
       ))}
     </div>
   );

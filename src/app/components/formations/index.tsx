@@ -32,7 +32,6 @@ const Formations = () => {
         className="w-full flex flex-col"
       >
         <h4 className='text-2xl font-medium mb-4 text-white mt-6'>{t('formation')}</h4>
-
         <>
           {formationsItems.map((formation, index) => (
             <div key={index} className='hover:bg-gray-800 transition-colors duration-300 p-10 rounded-md'>
