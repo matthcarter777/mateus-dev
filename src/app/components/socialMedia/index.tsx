@@ -10,6 +10,7 @@ export default function SocialMedia() {
         hover:text-indigo-500 
           transition-colors 
           duration-300
+          text-white
         ' 
         href="https://www.linkedin.com/in/mateus-henrique-silva-ti/" target="_blank"
       >
@@ -21,6 +22,7 @@ export default function SocialMedia() {
         hover:text-indigo-500 
           transition-colors 
           duration-300
+          text-white
         ' 
         href="https://github.com/matthcarter777/" 
         target="_blank"
