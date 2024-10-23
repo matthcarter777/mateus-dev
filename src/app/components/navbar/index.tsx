@@ -5,7 +5,7 @@ export default function Navbar() {
   const t = useTranslations('navbar');
 
   return (
-    <div className='px-8 flex flex-col size-full'>
+    <div className='px-8 flex-col size-full hidden md:block'>
       <a  
         href="#about" 
         className='
