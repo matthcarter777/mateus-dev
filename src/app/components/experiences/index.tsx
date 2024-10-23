@@ -61,26 +61,27 @@ const Experience = () => {
         id="experience"
         className="
           w-full 
-          flex 
+          flex
+          flex-col
+          md:flex-row 
           hover:bg-gray-800 
           transition-colors 
           duration-300 
-          p-10 
+          md:p-10 
           rounded-md
-          md:flex-row
         "  
       >
           <div className="w-4/10 flex">
-            <p className="w-full text-center text-xs text-slate-500">
+            <p className="w-full mb-2 text-center text-xs text-slate-500">
               {experience.period}
             </p>
           </div>
-          <div className="w-full md:w-6/10 pl-9">
+          <div className="w-full text-center md:w-6/10 md:pl-9">
             <h4 className="mb-4 text-white">{experience.title} - {experience.company}</h4>
             <p className="text-justify mb-3 text-slate-500">
               {experience.description}
             </p>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <div className="grid grid-cols-2 mb-8 md:grid-cols-4 gap-4">
               {experience.technologies.map((tech, i) => (
                 <div key={i} className="bg-indigo-500 rounded-md text-center">
                   <p className='text-xs text-center p-0.5 text-white'>{tech}</p>
