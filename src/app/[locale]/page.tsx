@@ -41,7 +41,7 @@ export default function Home() {
             <Navbar />
             <SocialMedia />
           </div>
-          <div className="box-content p-20 overflow-y-auto">
+          <div className="box-content p-14 md:p-20 overflow-y-auto">
             <Summary />
             <Experience />
             <Formations />
